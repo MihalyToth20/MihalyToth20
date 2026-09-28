@@ -1,4 +1,4 @@
-# Hi, I'm Mihály Tóth 👋
+# Hi, I'm Mihály 👋
 
 **Software engineer and Xano consultant behind [Calycode](https://calycode.com).**
 
