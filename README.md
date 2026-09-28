@@ -4,7 +4,7 @@
 
 I build developer tools and help teams make their backend workflows clearer, more repeatable, and easier to maintain. My work connects hands-on software engineering with low-code platforms through tooling, automation, APIs, and reliable development practices.
 
-[Website](https://calycode.com) · [Blog](https://blog.calycode.com) · [Calycode on GitHub](https://github.com/calycode)
+[` Website `](https://calycode.com) • [` Blog `](https://blog.calycode.com) • [` Calycode on GitHub `](https://github.com/calycode)
 
 ---
 
@@ -16,8 +16,20 @@ I build developer tools and help teams make their backend workflows clearer, mor
 | ✍️ **[Engineering blog](https://blog.calycode.com)** | Practical notes on Xano workflows, automation, and backend development. |
 | 📦 **[Calycode open source](https://github.com/calycode)** | More tools and experiments published under Calycode. |
 
+---
+
 ## What I focus on
 
-`Developer tooling` · `Workflow automation` · `Xano backends` · `TypeScript` · `APIs`
+`Developer tooling` • `Workflow automation` • `Xano backends` • `TypeScript` • `APIs`
 
-> I like tools that make complex work easier to understand, not just faster to execute.
+> #### “ I like tools that make complex work easier to understand, not just faster to execute.
+
+---
+
+## Work with me
+
+Need help with a Xano backend, developer workflow, or integration? Here’s how we can get started:
+
+1. **[Book an introductory call](https://cal.com/mihaly-calycode/discovery-call)** to tell me what you’re building and where you need support.
+2. **Explore the right approach.** We’ll discuss the scope, priorities, and whether I’m a good fit for the work.
+3. **Plan the next steps.** If we’re a good fit, we’ll agree on the scope and how to work together.
